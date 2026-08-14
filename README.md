@@ -70,22 +70,18 @@ My favourite part of analytics?
 
 Here's where I turn the theory into actual analysis.
 
-### ☕ Café Sales Performance Analysis
 
-**Excel • SQL • Power BI**
+### 👩🏽‍💼 Employee Productivity Analysis
 
-A deep dive into café sales performance to understand revenue trends, product performance, customer behaviour and payment preferences.
+**SQL • Power BI**
 
-📌 **Business questions explored:**
-- Which products generate the most revenue?
-- How does performance change over time?
-- How are customers paying?
-- What can the business do to improve performance?
+Analysing **100K+ records** to understand employee productivity and operational performance.
 
-🔗 **[View Project →](https://github.com/eriise/Caf-Sales-Performance-Analysis-)**
+📊 Built an interactive Power BI dashboard to turn the analysis into a business-friendly reporting tool.
+
+🔗 **[View Project →](https://github.com/eriise/Employee-Productivity-Analysis)**
 
 ---
-
 ### 💪 Fitness Membership SQL Analytics
 
 **SQL • Data Analysis**
@@ -99,28 +95,6 @@ An SQL-based analysis exploring fitness membership data and customer behaviour.
 - Performance metrics
 
 🔗 **[View Project →](https://github.com/eriise/Fitness-Membership-SQL-Analytics)**
-
----
-
-### 👩🏽‍💼 Employee Productivity Analysis
-
-**SQL • Power BI**
-
-Analysing **100K+ records** to understand employee productivity and operational performance.
-
-📊 Built an interactive Power BI dashboard to turn the analysis into a business-friendly reporting tool.
-
-🔗 **[View Project →](https://github.com/eriise/Employee-Productivity-Analysis)**
-
----
-
-### 🚗 eBay Used Cars Sales Analysis
-
-**Excel • SQL • Power BI**
-
-Exploring used-car data to understand pricing, vehicle characteristics and sales patterns.
-
-🔗 **[View Project →](https://github.com/eriise/eBay-used-cars-sales-report)**
 
 ---
 
