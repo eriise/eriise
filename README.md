@@ -70,6 +70,25 @@ My favourite part of analytics?
 
 Here's where I turn the theory into actual analysis.
 
+### 🥤 Coca-Cola Sales Analytics
+
+**SQL • Excel • Power BI**
+
+Analysing Coca-Cola sales data across **retailers, regions and beverage brands** to identify revenue drivers, performance gaps and growth opportunities.
+
+📌 **Focus areas:**
+
+- Retailer performance & profitability
+- Regional sales trends
+- Beverage brand performance
+- Seasonal sales patterns
+- Growth opportunity analysis
+
+📊 Combined SQL analysis with Excel and Power BI to turn transactional sales data into actionable business recommendations.
+
+🔗 [**View Project →**](https://github.com/eriise/Coca-Cola-Sales-Analytics)
+
+---
 
 ### 👩🏽‍💼 Employee Productivity Analysis
 
