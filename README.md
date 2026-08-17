@@ -90,17 +90,6 @@ Analysing Coca-Cola sales data across **retailers, regions and beverage brands**
 
 ---
 
-### 👩🏽‍💼 Employee Productivity Analysis
-
-**SQL • Power BI**
-
-Analysing **100K+ records** to understand employee productivity and operational performance.
-
-📊 Built an interactive Power BI dashboard to turn the analysis into a business-friendly reporting tool.
-
-🔗 **[View Project →](https://github.com/eriise/Employee-Productivity-Analysis)**
-
----
 ### 💪 Fitness Membership SQL Analytics
 
 **SQL • Data Analysis**
@@ -124,6 +113,17 @@ An SQL-based analysis exploring fitness membership data and customer behaviour.
 Analysing BMW sales data to explore performance across models and markets.
 
 🔗 **[View Project →](https://github.com/eriise/BMW-Global-Sales-SQL-Analysis)**
+
+---
+### 👩🏽‍💼 Employee Productivity Analysis
+
+**SQL • Power BI**
+
+Analysing **100K+ records** to understand employee productivity and operational performance.
+
+📊 Built an interactive Power BI dashboard to turn the analysis into a business-friendly reporting tool.
+
+🔗 **[View Project →](https://github.com/eriise/Employee-Productivity-Analysis)**
 
 ---
 
