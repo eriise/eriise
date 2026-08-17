@@ -144,9 +144,7 @@ I'm currently sharpening my skills in:
 🐍 **Python for Data Analysis**  
 🤖 **AI & Automation**  
 🔄 **n8n Workflows**  
-🗄️ **Advanced SQL**  
-📊 **Power BI & DAX**  
-📈 **Data Storytelling**
+
 
 The goal?
 
