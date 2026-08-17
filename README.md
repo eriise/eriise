@@ -159,11 +159,11 @@ I don't believe good analysis ends with a chart.
 A useful analysis should answer:
 
 **1. What happened?**  
-↓  
+
 **2. Why did it happen?**  
-↓  
+
 **3. Why does it matter?**  
-↓  
+
 **4. What should we do next?**
 
 Because a beautiful dashboard that doesn't help anyone make a decision is basically just expensive wallpaper. 😭
@@ -172,13 +172,13 @@ Because a beautiful dashboard that doesn't help anyone make a decision is basica
 
 # 🎀 Outside the Data
 
-When I'm not writing SQL queries or fighting with Power BI...
+When I'm not writing SQL queries or fighting with Python...
 
 ✨ I'm creating content  
 📚 Learning new tools  
 💻 Building projects  
 🎨 Exploring creative ideas  
-☕ Probably overthinking a PivotTable
+☕ Probably overthinking the colour scheme for my Power Bi Dashboard
 
 I'm also documenting my journey as I grow in **data, technology and content creation**.
 
@@ -210,6 +210,6 @@ If you're interested in **data analytics, business intelligence, automation, tec
 
 ### ✨ Turning messy data into meaningful decisions.
 
-**Built with SQL, spreadsheets, dashboards, curiosity & a suspicious number of PivotTables. 📊**
+**Built with SQL, spreadsheets, data, curiosity, too much Python debugging, overthinking Power BI colour palettes, and a suspicious number of PivotTables. 📊**
 
 </p>
