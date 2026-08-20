@@ -81,7 +81,7 @@ Analysing Coca-Cola sales data across **retailers, regions and beverage brands**
 - Retailer performance & profitability
 - Regional sales trends
 - Beverage brand performance
-- Seasonal sales patterns
+- Seasonal sales patterns 
 - Growth opportunity analysis
 
 📊 Combined SQL analysis with Excel and Power BI to turn transactional sales data into actionable business recommendations.
